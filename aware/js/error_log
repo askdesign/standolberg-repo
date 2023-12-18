@@ -1,0 +1,4 @@
+[02-Apr-2015 22:03:15] PHP Fatal error:  Call to undefined function  get_option() in /home3/carriah0/public_html/woodwork/wp-content/themes/aware/js/custom.js.php on line 90
+[26-Mar-2017 04:22:42 America/Denver] PHP Fatal error:  Call to undefined function get_option() in /home3/carriah0/public_html/woodwork/wp-content/themes/aware/js/custom.js.php on line 90
+[29-Mar-2017 13:06:59 America/Denver] PHP Fatal error:  Call to undefined function get_option() in /home3/carriah0/public_html/woodwork/wp-content/themes/aware/js/custom.js.php on line 90
+[27-Oct-2017 20:31:13 America/Denver] PHP Fatal error:  Call to undefined function get_option() in /home3/carriah0/public_html/woodwork/wp-content/themes/aware/js/custom.js.php on line 90
